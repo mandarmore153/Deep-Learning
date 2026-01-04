@@ -10,3 +10,50 @@ outputs/
 # Ignore dataset folder
 car&truck-detection-1/
 
+# Ignore common large files, model weights, checkpoints, archives, and environments
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.weights
+*.h5
+*.pb
+*.onnx
+
+# Large media
+*.webm
+*.flv
+*.mpeg
+*.mpg
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.rar
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Outputs, logs, and runtime folders
+output/
+runs/
+outputs/
+*.log
+
+# Generic data / models folders
+data/
+datasets/
+models/
+
