@@ -1,0 +1,8 @@
+# Ignore videos directory and common video file formats
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+outputs/
+*.mp4

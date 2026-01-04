@@ -88,6 +88,7 @@ Place your traffic video inside the `videos/` folder:
 ```
 videos/traffic.mp4
 ```
+> Note: This repository includes a `.gitignore` that excludes the `videos/` directory and common video file types (e.g. .mp4, .avi, .mov, .mkv). If you need to track large video files in Git, remove them from `.gitignore` or add them explicitly.
 
 You can download free traffic videos from:
 
