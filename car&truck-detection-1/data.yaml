@@ -1,0 +1,13 @@
+names:
+- car
+- truck
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: car-truck-detection-qh4lk
+  url: https://universe.roboflow.com/p2m5/car-truck-detection-qh4lk/dataset/1
+  version: 1
+  workspace: p2m5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
