@@ -6,3 +6,7 @@ videos/
 *.mkv
 outputs/
 *.mp4
+
+# Ignore dataset folder
+car&truck-detection-1/
+
