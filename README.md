@@ -69,7 +69,7 @@ Vehicle Counting & Traffic Analysis System/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vehicle-counting-yolo.git
+git clone https://github.com/mandarmore153/Deep-Learning.git
 cd Vehicle Counting & Traffic Analysis System
 ```
 
